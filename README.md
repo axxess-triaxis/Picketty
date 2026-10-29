@@ -522,3 +522,11 @@ place, there's no handoff in the current plan schema. Re-run after the fix: the 
 a placement within the right arm's actual reach, and the cup visibly moved from the far-right
 corner toward center-left in the saved `outputs/after.png` -- a real, achievable plan, not the
 literal "far left" the instruction's wording alone would suggest, but a working one.
+
+## Built by Triaxis Ventures
+
+Built by [Triaxis Ventures Private Limited](https://github.com/axxess-triaxis), whose product is
+[AXXESS TRIaxis](https://github.com/axxess-triaxis/AXXESSTRIAXIS). This is a hackathon build (simulation only, no hardware), separate
+from the Triaxis product stack ([PORT4LLEO](https://github.com/axxess-triaxis/port4lleo),
+[Callismatic](https://github.com/axxess-triaxis/callismatic),
+[Omnidamus](https://github.com/axxess-triaxis/Omnidamus), [STILL](https://github.com/axxess-triaxis/STILL)).
